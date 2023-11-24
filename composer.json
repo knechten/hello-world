@@ -1,0 +1,8 @@
+{
+    "name": "knechten/hello-world",
+    "description": "A tiny little test package",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.1"
+    }
+}
